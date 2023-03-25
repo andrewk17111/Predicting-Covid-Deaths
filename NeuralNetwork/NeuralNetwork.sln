@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeuralNetwork", "NeuralNetwork\NeuralNetwork.csproj", "{39EFE6FE-39BC-441D-BA9B-5DB4208E8625}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NNTest", "NNTest\NNTest.csproj", "{F3D8027A-9DE0-47D5-9703-9179F593B75B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experiment", "Experiment\Experiment.csproj", "{BCF13EF2-9AF1-4953-97F0-64C52F5099DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39EFE6FE-39BC-441D-BA9B-5DB4208E8625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39EFE6FE-39BC-441D-BA9B-5DB4208E8625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39EFE6FE-39BC-441D-BA9B-5DB4208E8625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39EFE6FE-39BC-441D-BA9B-5DB4208E8625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D8027A-9DE0-47D5-9703-9179F593B75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D8027A-9DE0-47D5-9703-9179F593B75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D8027A-9DE0-47D5-9703-9179F593B75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D8027A-9DE0-47D5-9703-9179F593B75B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF13EF2-9AF1-4953-97F0-64C52F5099DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF13EF2-9AF1-4953-97F0-64C52F5099DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF13EF2-9AF1-4953-97F0-64C52F5099DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF13EF2-9AF1-4953-97F0-64C52F5099DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C0EE1AF-E0B1-46F9-B72B-F1C925515B75}
+	EndGlobalSection
+EndGlobal

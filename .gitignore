@@ -1,0 +1,9 @@
+
+NeuralNetwork/Experiment/obj
+NeuralNetwork/Experiment/bin
+NeuralNetwork/NeuralNetwork/obj
+NeuralNetwork/NeuralNetwork/bin
+NeuralNetwork/NNTest/obj
+NeuralNetwork/NNTest/bin
+*.vsidx
+NeuralNetwork/.vs
